@@ -7,6 +7,10 @@ const HomePage = (props) => {
     <>
       <Head>
         <title>Anasayfa || 7438 Disney karakteri mevcut</title>
+        <meta
+          name="google-site-verification"
+          content="0TKU6SQ-LXgjEqGoHYhb7R3_MiynsEi6wdccr_Q9XdQ"
+        />
         <link
           rel="icon"
           type="image/png"

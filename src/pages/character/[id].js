@@ -18,6 +18,10 @@ const CharacterPage = (props) => {
           }
         ></link>
         <meta
+          name="google-site-verification"
+          content="0TKU6SQ-LXgjEqGoHYhb7R3_MiynsEi6wdccr_Q9XdQ"
+        />
+        <meta
           name="description"
           content={`${character.name} kimdir? Oynadığı filmler tv şovları video oyunları ve daha fazlası sizlerle birlikte`}
         />
